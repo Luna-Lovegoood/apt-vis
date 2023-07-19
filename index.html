@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div style="height: 100%;width: 100%;display: flex;flex-wrap: wrap;">
+	<div>
+		<div id="france">
+			<div style="position: absolute;right: 20px;top: 8px;font-size: 13px;">
+				<input type="radio" name="type" class="btn-type" value="flight" checked />航班数量
+				<input type="radio" name="type" class="btn-type" value="retard"  />延误时间
+			</div>
+		</div>
+
+		<div id="chord"></div>
+	</div>
+	
+	<div style="flex: 1;">
+		<div id="world" style="height: 100%;"></div>
+		<!-- <input type="radio" name="color" class="btn-color" value="avg_pc15_d" checked />avg_pc15_d
+		<input type="radio" name="color" class="btn-color" value="avg_retard_d"  />avg_retard_d
+		<input type="radio" name="color" class="btn-color" value="avg_pc15_a"  />avg_pc15_a
+		<input type="radio" name="color" class="btn-color" value="avg_retard_a"  />avg_retard_a
+		<input type="checkbox" id="chk-pax" name="">仅显示载客量最多的10条航线
+		<input type="checkbox" id="chk-ret" name="">仅显示平均延误时间最长的10条航线 -->
+	</div>
+
+	<!-- <div id="scatter"></div>
+	<div id="line"></div> -->
+	
+</div>
+
+
+<script src="./d3.v7.min.js"></script>
+<!-- <script src="./js/geo-world.js"></script>
+<script src="./js/geo-france.js"></script> -->
+<script type="module">
+import { update as updateLine } from './components/line.js'
+import { init } from './components/scatter.js'
+import { updateFranceMap } from './components/fr-map.js'
+import { updateData, changeLineColor, showPax, showRet } from './components/world-map.js'
+
+// d3.selectAll('.btn-color').on('click', changeLineColor)
+// d3.selectAll('#chk-pax').on('click', showPax)
+// d3.selectAll('#chk-ret').on('click', showRet)
+
+d3.selectAll('.btn-type').on('click', updateFranceMap)
+</script>
+</body>
+</html>

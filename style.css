@@ -1,0 +1,82 @@
+body {
+	position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#tooltip {
+	width: auto;
+	height: auto;
+	padding: 10px;
+	font-size: 13px;
+	position: absolute;
+    top: 0;
+}
+
+#france {
+	position: relative;
+}
+
+.lines {
+	/*stroke-width: 0.2;*/
+    /*stroke: red;*/
+}
+
+.arc-paths {
+	stroke: white;
+	stroke-width: 0.5;
+}
+
+.chords {
+	stroke: black;
+	stroke-width:  0.2;
+	fill: none;
+}
+
+.text {
+	font-size: 12px;
+	fill: #ddd;
+	text-anchor: middle;
+}
+
+.back-line {
+	stroke: #ddd;
+	stroke-width: 1;
+}
+
+.left-text, .right-text {
+	font-size: 12px;
+	font-weight: 500;
+	fill: #f88a4e;
+	text-anchor: middle;
+	/*stroke: #fff;
+	stroke-width: 0.5;*/
+}
+
+.left-point, .right-point {
+	fill: #f88a4e;
+	stroke: none;
+}
+
+.link {
+	stroke: #f88a4e;
+	stroke-width: 1;
+}
+
+.active-chords {
+	stroke: orange;
+	stroke-width:  1;
+	fill: none;
+}
+
+.circles {
+	stroke: white;
+	fill-opacity: 0.5;
+}
+
+.polylines {
+	stroke: black;
+	fill: none;
+}

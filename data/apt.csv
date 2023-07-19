@@ -1,0 +1,93 @@
+APT_OACI,APT_IATA,APT_NOM,APT_ISO2,APT_PAYS,PAYS_ZON,PAYS_FSC,APT_LAT,APT_LONG,count_dep,count_arr,min_anmois,max_anmois,ZON,dep,AVG_PC15_D,AVG_RETARD_D,arr,AVG_PC15_A,AVG_RETARD_A
+"LFTW","FNI","NIMES-GARONS","FR","France (Métrop.)","M","CC",43.76,4.42,14,13,199001,201803,"I","LFTW",0.51,85.313,"LFTW",0.475,91.485
+"LFSN","ENC","NANCY-ESSEY","FR","France (Métrop.)","M","CC",48.69,6.23,1,2,199001,199110,"D",(null),(null),(null),(null),(null),(null)
+"LFSL","BVE","BRIVE-SOUILLAC","FR","France (Métrop.)","M","CC",45.04,1.49,5,5,199010,201803,"I","LFSL",0.12,7.662,"LFSL",0.177,9.482
+"LFGJ","DLE","DOLE-TAVAUX","FR","France (Métrop.)","M","CC",47.04,5.44,15,16,199004,201803,"I","LFGJ",0.404,38.197,"LFGJ",0.217,26.205
+"LFSF","MZM","METZ-FRESCATY","FR","France (Métrop.)","M","CC",49.08,6.13,9,10,199001,199405,"I",(null),(null),(null),(null),(null),(null)
+"LFSB","MLH","BALE-MULHOUSE","FR","France (Métrop.)","M","CC",47.59,7.53,187,194,199001,201803,"I","LFSB",0.165,9.922,"LFSB",0.142,8.234
+"LFRQ","UIP","QUIMPER-PLUGUFFAN","FR","France (Métrop.)","M","CC",47.98,-4.17,11,10,199001,201803,"I","LFRQ",0.209,11.222,"LFRQ",0.229,12.456
+"LFJA","XCW","CHAUMONT-SEMOUTIER","FR","France (Métrop.)","M","CC",48.09,5.05,(null),1,199709,199710,"D",(null),(null),(null),(null),(null),(null)
+"LFTH","TLN","TOULON-HYERES","FR","France (Métrop.)","M","CC",43.1,6.15,33,34,199001,201803,"I","LFTH",0.184,9.848,"LFTH",0.195,10.265
+"LFST","SXB","STRASBOURG-ENTZHEIM","FR","France (Métrop.)","M","CC",48.54,7.63,78,85,199001,201803,"I","LFST",0.171,11.26,"LFST",0.152,10.066
+"LFSG","EPL","EPINAL-MIRECOURT","FR","France (Métrop.)","M","CC",48.33,6.07,2,2,199009,201508,"I",(null),(null),(null),(null),(null),(null)
+"LFAT","LTQ","LE TOUQUET-COTE D’OP","FR","France (Métrop.)","M","CC",50.51,1.63,1,1,199005,200308,"I",(null),(null),(null),(null),(null),(null)
+"LFRG","DOL","DEAUVILLE-NORMANDIE","FR","France (Métrop.)","M","CC",49.36,0.16,42,42,199008,201803,"I","LFRG",0.298,23.167,"LFRG",0.248,21.32
+"LFLJ","CVF","COURCHEVEL","FR","France (Métrop.)","M","CC",45.4,6.63,1,1,199102,199103,"D",(null),(null),(null),(null),(null),(null)
+"LFLO","RNE","ROANNE","FR","France (Métrop.)","M","CC",46.05,4.0,1,1,199110,200110,"D",(null),(null),(null),(null),(null),(null)
+"LFKO","PRP","PROPRIANO","FR","France (Métrop.)","M","CC",41.66,8.89,1,(null),199008,199008,"D",(null),(null),(null),(null),(null),(null)
+"LFMS","XAS","ALES-CEVENNES","FR","France (Métrop.)","M","CC",44.07,4.14,(null),1,199107,199107,"D",(null),(null),(null),(null),(null),(null)
+"LFEC","_nd","OUESSANT","FR","France (Métrop.)","M","CC",48.46,-5.06,1,1,199010,199804,"D",(null),(null),(null),(null),(null),(null)
+"LFOP","URO","ROUEN-VALLEE DE SEIN","FR","France (Métrop.)","M","CC",49.39,1.18,7,8,199111,201803,"I","LFOP",0.0,0.0,"LFOP",0.0,0.0
+"LFRO","LAI","LANNION","FR","France (Métrop.)","M","CC",48.75,-3.47,1,1,199001,201711,"D","LFRO",0.063,5.591,"LFRO",0.168,11.257
+"LFGA","CMR","COLMAR-HOUSSEN","FR","France (Métrop.)","M","CC",48.11,7.36,12,11,199108,200008,"I",(null),(null),(null),(null),(null),(null)
+"LFJL","ETZ","METZ-NANCY-LORRAINE","FR","France (Métrop.)","M","CC",48.98,6.25,58,57,199110,201803,"I","LFJL",0.137,9.483,"LFJL",0.145,8.84
+"LFCK","DCM","CASTRES-MAZAMET","FR","France (Métrop.)","M","CC",43.56,2.29,3,3,199010,201803,"D","LFCK",0.231,12.393,"LFCK",0.153,8.481
+"LFRZ","SNR","ST-NAZAIRE-MONTOIR","FR","France (Métrop.)","M","CC",47.31,-2.16,2,2,200702,201803,"D",(null),(null),(null),"LFRZ",0.0,0.0
+"LFJR","ANE","ANGERS-MARCE","FR","France (Métrop.)","M","CC",47.56,-0.31,3,4,199810,201608,"I","LFJR",0.406,39.025,"LFJR",0.263,25.433
+"LFOK","XCR","CHALONS-VATRY","FR","France (Métrop.)","M","CC",48.77,4.21,17,16,200405,201803,"I","LFOK",0.245,11.365,"LFOK",0.058,3.058
+"LFKJ","AJA","AJACCIO-NAPOLEON-BON","FR","France (Métrop.)","M","CC",41.92,8.8,47,49,199001,201803,"I","LFKJ",0.205,12.55,"LFKJ",0.171,10.433
+"LFHP","LPY","LE PUY-LOUDES","FR","France (Métrop.)","M","CC",45.08,3.76,1,1,199406,199612,"D",(null),(null),(null),(null),(null),(null)
+"LFPT","POX","PONTOISE-CORMEILLES-","FR","France (Métrop.)","M","CC",49.1,2.04,1,1,199811,199909,"I",(null),(null),(null),(null),(null),(null)
+"LFRM","LME","LE MANS-ARNAGE","FR","France (Métrop.)","M","CC",47.95,0.2,1,(null),200606,200606,"I",(null),(null),(null),(null),(null),(null)
+"LFMN","NCE","""NICE-COTE D'AZUR""","FR","France (Métrop.)","M","CC",43.67,7.22,197,201,199001,201803,"I","LFMN",0.25,14.153,"LFMN",0.176,10.094
+"LFTG","JCA","CANNES","FR","France (Métrop.)","M","CC",43.54,7.04,1,1,199606,200506,"D",(null),(null),(null),(null),(null),(null)
+"LFDN","RCO","ROCHEFORT-CHARENTE-M","FR","France (Métrop.)","M","CC",45.89,-0.98,1,1,200411,200504,"I",(null),(null),(null),(null),(null),(null)
+"LF96","_nd","GRIMAUD","FR","France (Métrop.)","M","CC",43.27,6.55,1,1,200008,201708,"D",(null),(null),(null),(null),(null),(null)
+"LFTZ","LTT","ST-TROPEZ-LA MOLE","FR","France (Métrop.)","M","CC",43.21,6.48,1,1,200507,200907,"I",(null),(null),(null),(null),(null),(null)
+"LF90","_nd","HELISTAT DIVERS 06","FR","France (Métrop.)","M","CC",0.0,0.0,1,1,199701,200504,"D",(null),(null),(null),(null),(null),(null)
+"LFMI","QIE","ISTRES-LE-TUBE","FR","France (Métrop.)","M","CC",43.52,4.92,(null),1,200406,200406,"D",(null),(null),(null),(null),(null),(null)
+"LFLH","XCD","CHALON-CHAMPFORGEUIL","FR","France (Métrop.)","M","CC",46.83,4.82,(null),1,200406,200406,"D",(null),(null),(null),(null),(null),(null)
+"LFRT","SBK","ST-BRIEUC-ARMOR","FR","France (Métrop.)","M","CC",48.54,-2.86,3,3,199001,200106,"I",(null),(null),(null),(null),(null),(null)
+"LFRS","NTE","NANTES-ATLANTIQUE","FR","France (Métrop.)","M","CC",47.16,-1.61,154,158,199001,201803,"I","LFRS",0.198,12.42,"LFRS",0.189,11.807
+"LFLU","VAF","VALENCE-CHABEUIL","FR","France (Métrop.)","M","CC",44.92,4.97,1,1,199002,199201,"D",(null),(null),(null),(null),(null),(null)
+"LFEY","IDY","""ILE D'YEU""","FR","France (Métrop.)","M","CC",46.72,-2.39,1,1,199607,199708,"D",(null),(null),(null),(null),(null),(null)
+"LFSR","RHE","REIMS-CHAMPAGNE","FR","France (Métrop.)","M","CC",49.31,4.05,6,5,199610,200606,"I",(null),(null),(null),(null),(null),(null)
+"LFRN","RNS","RENNES-ST-JACQUES","FR","France (Métrop.)","M","CC",48.07,-1.73,42,43,199001,201803,"I","LFRN",0.12,7.63,"LFRN",0.132,8.249
+"LF83","_nd","HELISTAT DIVERS 83","FR","France (Métrop.)","M","CC",0.0,0.0,(null),1,201107,201107,"D",(null),(null),(null),(null),(null),(null)
+"LFRC","CER","CHERBOURG-MAUPERTUS","FR","France (Métrop.)","M","CC",49.65,-1.48,4,5,199003,201511,"I",(null),(null),(null),(null),(null),(null)
+"LFCR","RDZ","RODEZ-AVEYRON","FR","France (Métrop.)","M","CC",44.41,2.48,9,9,199001,201803,"I","LFCR",0.129,9.488,"LFCR",0.156,10.47
+"LFOH","LEH","LE HAVRE-OCTEVILLE","FR","France (Métrop.)","M","CC",49.53,0.09,23,26,199001,201706,"I","LFOH",0.0,0.0,"LFOH",0.0,0.0
+"LFOB","BVA","BEAUVAIS-TILLE","FR","France (Métrop.)","M","CC",49.45,2.11,129,131,199001,201803,"I","LFOB",0.208,11.488,"LFOB",0.136,7.421
+"LFRH","LRT","LORIENT-LANN-BIHOUE","FR","France (Métrop.)","M","CC",47.76,-3.44,9,11,199001,201803,"I","LFRH",0.09,4.942,"LFRH",0.097,5.74
+"LFRD","DNR","DINARD-PLEURTUIT-ST-","FR","France (Métrop.)","M","CC",48.59,-2.08,11,12,199001,201803,"I","LFRD",0.259,24.551,"LFRD",0.168,20.608
+"LFLC","CFE","CLERMONT-FERRAND-AUV","FR","France (Métrop.)","M","CC",45.79,3.16,65,62,199001,201803,"I","LFLC",0.098,5.486,"LFLC",0.1,5.516
+"LFBL","LIG","LIMOGES-BELLEGARDE","FR","France (Métrop.)","M","CC",45.86,1.18,33,34,199001,201803,"I","LFBL",0.186,11.991,"LFBL",0.107,6.32
+"LFBI","PIS","POITIERS-BIARD","FR","France (Métrop.)","M","CC",46.59,0.31,21,17,199001,201803,"I","LFBI",0.122,7.866,"LFBI",0.111,6.856
+"LFQQ","LIL","LILLE-LESQUIN","FR","France (Métrop.)","M","CC",50.56,3.09,121,118,199001,201803,"I","LFQQ",0.12,7.647,"LFQQ",0.099,6.229
+"LFMU","BZR","BEZIERS-VIAS","FR","France (Métrop.)","M","CC",43.32,3.35,13,13,199001,201803,"I","LFMU",0.228,16.515,"LFMU",0.139,12.908
+"LFOT","TUF","TOURS-VAL DE LOIRE","FR","France (Métrop.)","M","CC",47.43,0.72,10,10,199001,201802,"I","LFOT",0.0,0.0,"LFOT",0.0,0.0
+"LFRB","BES","BREST-BRETAGNE","FR","France (Métrop.)","M","CC",48.45,-4.42,59,59,199001,201803,"I","LFRB",0.057,3.104,"LFRB",0.047,2.645
+"LFMT","MPL","MONTPELLIER-MEDITERR","FR","France (Métrop.)","M","CC",43.58,3.96,59,64,199001,201803,"I","LFMT",0.185,11.154,"LFMT",0.142,8.341
+"LFMH","EBU","ST-ETIENNE-LOIRE","FR","France (Métrop.)","M","CC",45.53,4.3,19,17,199001,201710,"I",(null),(null),(null),(null),(null),(null)
+"LFMP","PGF","PERPIGNAN-RIVESALTES","FR","France (Métrop.)","M","CC",42.74,2.87,27,30,199001,201803,"I","LFMP",0.204,27.449,"LFMP",0.167,22.629
+"LFLW","AUR","AURILLAC","FR","France (Métrop.)","M","CC",44.9,2.42,1,1,199004,201803,"D","LFLW",0.188,11.585,"LFLW",0.176,11.46
+"LFLL","LYS","LYON-ST-EXUPERY","FR","France (Métrop.)","M","CC",45.73,5.08,237,234,199001,201803,"I","LFLL",0.22,13.379,"LFLL",0.176,10.91
+"LFLS","GNB","GRENOBLE-ISERE","FR","France (Métrop.)","M","CC",45.36,5.33,55,48,199001,201803,"I","LFLS",0.496,30.798,"LFLS",0.558,26.694
+"LFMV","AVN","AVIGNON-CAUMONT","FR","France (Métrop.)","M","CC",43.91,4.9,9,8,199001,201708,"I",(null),(null),(null),(null),(null),(null)
+"LFBO","TLS","TOULOUSE-BLAGNAC","FR","France (Métrop.)","M","CC",43.64,1.37,154,154,199001,201803,"I","LFBO",0.214,13.057,"LFBO",0.18,10.757
+"LFLP","NCY","ANNECY-MEYTHET","FR","France (Métrop.)","M","CC",45.93,6.11,1,1,199001,201209,"D","LFLP",0.0,0.0,"LFLP",0.0,0.0
+"LFRK","CFR","CAEN-CARPIQUET","FR","France (Métrop.)","M","CC",49.17,-0.45,21,22,199001,201803,"I","LFRK",0.123,8.841,"LFRK",0.13,8.38
+"LFML","MRS","MARSEILLE-PROVENCE","FR","France (Métrop.)","M","CC",43.44,5.22,239,236,199001,201803,"I","LFML",0.247,13.728,"LFML",0.177,10.565
+"LFLB","CMF","CHAMBERY-AIX-LES-BAI","FR","France (Métrop.)","M","CC",45.64,5.88,37,37,199001,201803,"I","LFLB",0.587,37.857,"LFLB",0.492,26.45
+"LFBZ","BIQ","BIARRITZ-PAYS-BASQUE","FR","France (Métrop.)","M","CC",43.47,-1.53,35,36,199001,201803,"I","LFBZ",0.176,9.718,"LFBZ",0.153,8.46
+"LFBV","BVE_","BRIVE-LA-ROCHE","FR","France (Métrop.)","M","CC",45.15,1.47,2,3,199001,201006,"D",(null),(null),(null),(null),(null),(null)
+"LFBX","PGX","PERIGUEUX-BASSILLAC","FR","France (Métrop.)","M","CC",45.2,0.82,2,2,199001,201006,"D",(null),(null),(null),(null),(null),(null)
+"LFCI","LBI","ALBI-LE SEQUESTRE","FR","France (Métrop.)","M","CC",43.91,2.12,3,3,199001,199509,"D",(null),(null),(null),(null),(null),(null)
+"LFPB","LBG","PARIS-LE BOURGET","FR","France (Métrop.)","M","CC",48.97,2.44,6,3,199005,201803,"I",(null),(null),(null),(null),(null),(null)
+"LFLV","VHY","VICHY-CHARMEIL","FR","France (Métrop.)","M","CC",46.17,3.4,2,2,199203,199208,"D",(null),(null),(null),(null),(null),(null)
+"LFMK","CCF","CARCASSONNE-SALVAZA","FR","France (Métrop.)","M","CC",43.22,2.31,21,21,199109,201803,"I","LFMK",0.205,13.853,"LFMK",0.135,8.822
+"LFBS","_nd","BISCARROSSE-PARENTIS","FR","France (Métrop.)","M","CC",44.37,-1.13,1,(null),200812,200812,"D",(null),(null),(null),(null),(null),(null)
+"LFSD","DIJ","DIJON-LONGVIC","FR","France (Métrop.)","M","CC",47.27,5.09,8,10,199106,201405,"I","LFSD",0.0,0.0,"LFSD",0.0,0.0
+"LFKF","FSC","FIGARI-SUD-CORSE","FR","France (Métrop.)","M","CC",41.5,9.1,31,32,199001,201803,"I","LFKF",0.219,12.256,"LFKF",0.179,9.955
+"LFBT","LDE","TARBES-LOURDES-PYREN","FR","France (Métrop.)","M","CC",43.19,0.01,87,84,199001,201803,"I","LFBT",0.172,9.777,"LFBT",0.178,9.456
+"LFBD","BOD","BORDEAUX-MERIGNAC","FR","France (Métrop.)","M","CC",44.83,-0.72,140,148,199001,201803,"I","LFBD",0.305,16.943,"LFBD",0.162,9.872
+"LFLX","CHR","CHATEAUROUX-DEOLS","FR","France (Métrop.)","M","CC",46.86,1.72,8,5,199007,201408,"I",(null),(null),(null),(null),(null),(null)
+"LFBA","AGF","AGEN-LA GARENNE","FR","France (Métrop.)","M","CC",44.17,0.59,2,2,199001,201803,"D","LFBA",0.017,1.016,"LFBA",0.015,1.359
+"LFBH","LRH","LA ROCHELLE-ILE DE R","FR","France (Métrop.)","M","CC",46.18,-1.2,21,19,199001,201803,"I","LFBH",0.282,37.022,"LFBH",0.273,36.563
+"LFBE","EGC","BERGERAC-ROUMANIERE","FR","France (Métrop.)","M","CC",44.82,0.52,22,21,199001,201803,"I","LFBE",0.266,15.223,"LFBE",0.185,13.496
+"LFBP","PUF","PAU-PYRENEES","FR","France (Métrop.)","M","CC",43.38,-0.42,22,24,199001,201803,"I","LFBP",0.114,6.687,"LFBP",0.132,6.55
+"LFKB","BIA","BASTIA-PORETTA","FR","France (Métrop.)","M","CC",42.55,9.48,61,64,199001,201803,"I","LFKB",0.14,8.766,"LFKB",0.118,7.158
+"LFBU","ANG","ANGOULEME-BRIE-CHAMP","FR","France (Métrop.)","M","CC",45.73,0.22,5,5,199001,200910,"I",(null),(null),(null),(null),(null),(null)
+"LFKC","CLY","CALVI-STE-CATHERINE","FR","France (Métrop.)","M","CC",42.52,8.79,32,31,199001,201803,"I","LFKC",0.071,3.795,"LFKC",0.081,4.373
+"LFPG","CDG","PARIS-CHARLES DE GAU","FR","France (Métrop.)","M","CC",49.01,2.55,558,554,199001,201803,"I","LFPG",0.296,15.503,"LFPG",0.205,12.019
+"LFPO","ORY","PARIS-ORLY","FR","France (Métrop.)","M","CC",48.72,2.38,390,388,199001,201803,"I","LFPO",0.34,18.152,"LFPO",0.241,13.341
