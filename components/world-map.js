@@ -49,7 +49,7 @@ let svg = d3.select('#world')
 // .style('border-radius', 5)
 
 function init() {
-    d3.json('../../data/world.json').then(map => {
+    d3.json('./data/world.json').then(map => {
         //console.log(map);
 
         svg.append('g')//.attr('transform', `translate(${width/2}, ${height/2})`)

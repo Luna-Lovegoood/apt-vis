@@ -34,7 +34,7 @@ let points
 
 
 function loadData() {
-	d3.json('../../data/France.json').then(map => {
+	d3.json('./data/France.json').then(map => {
 	    //console.log(map);
 
 	    svg.append('g')//.attr('transform', `translate(${width/2}, ${height/2})`)
